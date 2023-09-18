@@ -16,7 +16,7 @@ require (
 	github.com/moby/term v0.5.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0-rc4
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.26.0
 	golang.org/x/text v0.12.0
 	gopkg.in/yaml.v3 v3.0.1
 )
